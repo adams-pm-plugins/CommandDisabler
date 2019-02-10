@@ -1,0 +1,8 @@
+name: CommandDisabler
+main: ARTulloss\CommandDisabler\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: ARTulloss
+description: Simple way to disable commands!
+website: github.com/artulloss
